@@ -1,4 +1,4 @@
-# Analýza populačních trendů v Praze, Moravskoslezském  a Královéhradecké kraji (2000-2023)
+# Analýza populačních trendů v Praze, Moravskoslezském  a Královéhradeckém kraji (2000-2023)
 
 ## Popis projektu
 
