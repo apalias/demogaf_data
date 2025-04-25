@@ -34,7 +34,7 @@ Tento projekt analyzuje vývoj vybraných demografických ukazatelů v Hlavním 
 
 * `notebooks/por_ukol.ipynb`: Hlavní Jupyter Notebook s analýzou a vizualizacemi.
 * `data/OBY01BHVD.csv`: Zdrojová data.
-* `plots/`: Složka s vygenerovanými grafy (pokud je ukládáš zvlášť).
+* `plots/`: Složka s vygenerovanými grafy (vizualizací).
 * `README.md`: Tento soubor - popis projektu.
 * `requirements.txt`: Seznam potřebných Python knihoven.
 * `.gitignore`: Specifikace souborů ignorovaných Gitem.
