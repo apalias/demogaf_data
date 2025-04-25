@@ -43,8 +43,8 @@ Tento projekt analyzuje vývoj vybraných demografických ukazatelů v Hlavním 
 
 1.  **Naklonujte repozitář:**
     ```bash
-    git clone [https://www.itnetwork.cz/programovani/git/git-vzdaleny-repositar-vytvoreni-a-nastaveni-repositare](https://www.itnetwork.cz/programovani/git/git-vzdaleny-repositar-vytvoreni-a-nastaveni-repositare)
-    cd [název-složky-repozitáře]
+    git clone [(https://github.com/apalias/demogaf_data.git)](https://github.com/apalias/demogaf_data.git)
+    cd [demograf_data]
     ```
 2.  **(Doporučeno)** Vytvořte a aktivujte virtuální prostředí:
     ```bash
