@@ -1,8 +1,8 @@
-# Analýza populačních trendů v Praze a Moravskoslezském kraji (2000-2023)
+# Analýza populačních trendů v Praze, Moravskoslezském  a Královéhradecké kraji (2000-2023)
 
 ## Popis projektu
 
-Tento projekt analyzuje vývoj vybraných demografických ukazatelů v Hlavním městě Praze a Moravskoslezském kraji v letech 2000 až 2023. Cílem bylo identifikovat hlavní trendy, porovnat vývoj mezi kraji a zjistit, jaký vliv měla přirozená měna a migrace na celkový populační vývoj.
+Tento projekt analyzuje vývoj vybraných demografických ukazatelů v Hlavním městě Praze, Moravskoslezském a Královéhradeckém kraji v letech 2000 až 2023. Cílem bylo identifikovat hlavní trendy, porovnat vývoj mezi kraji a zjistit, jaký vliv měla přirozená měna a migrace na celkový populační vývoj.
 
 ## Data
 
